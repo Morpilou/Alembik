@@ -1,0 +1,25 @@
+.login {
+    background: #E4E2E0;
+
+    h1 a {
+        background: url(../../images/logo.svg) no-repeat;
+        width: 290px;
+        height: 57px;
+        background-size: contain;
+    }
+
+    #loginform {
+        background: #0D0D0D;
+        border: none;
+        border-radius: 20px;
+
+        label {
+            color: white;
+        }
+    }
+
+    #backtoblog a,
+    #nav a {
+        color: #0D0D0D;
+    }
+}
