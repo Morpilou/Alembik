@@ -1,16 +1,20 @@
 {
-  "name": "my_theme",
+  "name": "alembik",
   "version": "1.0.0",
+  "description": "Alembik is a small e-commerce web site made to learn Woocommerce",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morpilou/Alembik.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@tailwindcss/cli": "^4.1.11",
-    "tailwindcss": "^4.1.11"
-  }
+  "bugs": {
+    "url": "https://github.com/Morpilou/Alembik/issues"
+  },
+  "homepage": "https://github.com/Morpilou/Alembik#readme"
 }
